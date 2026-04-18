@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e91058dc-449e-47b9-b832-b4ede773be0a" />
 # Gemini Bot
 
 ## Description
