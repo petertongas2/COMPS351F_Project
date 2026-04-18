@@ -42,9 +42,9 @@ To use this project:
 1. Clone the repository.
 2. Install the dependencies.
 - Install
-- ```npm install```
+  ```npm install```
 - Run
-- ```npm run dev```
+  ```npm run dev```
 4. Insert your API key.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2156104a-d911-424f-94cd-1a40e31ad0ac" />
 6. Run the project.
