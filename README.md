@@ -40,7 +40,7 @@ To run this project, you'll need an API key from Google. You can get one for fre
 To use this project:
 
 1. Clone the repository.
-2. Install the dependencies.
+2. Install the dependencies.(If using Mac Computer, may need to change files to cjs then can start the syste,)
 - Install
   ```npm install```
 - Run
